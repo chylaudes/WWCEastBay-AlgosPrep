@@ -5,7 +5,6 @@ Welcome to our first Women who Code East Bay Algorithms Prep.  Each week we will
 Feel free to work with a partner on these problems.  And we will come back to share our solutions.  
 
 ##Monday, Nov 14th -Recursion
-<hr>
 
 ###What is Recursion?
   It is simply when a function calls it self. 
