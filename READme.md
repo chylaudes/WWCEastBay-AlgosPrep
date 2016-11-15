@@ -99,4 +99,4 @@ Please email: **chylau.design@gmail.com**  with the subject line **"Interested i
 
 
 **Disclaimer:**
-Most of the material I've used is a combination of workshop classes that I've take in the past.  I cannot take credit for the things here.  Programs that have contributed to this repo:  General Assembly, Frontend Masters/ Telegraph Academy-@bgando  
+Most of the material I've used is a combination of workshop classes that I've taken in the past.  I cannot take credit for the things here.  Programs that have contributed to this repo:  General Assembly, Frontend Masters/ Telegraph Academy-@bgando  
