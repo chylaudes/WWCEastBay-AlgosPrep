@@ -62,15 +62,15 @@ This in other words this is called a `base case`:
 
 3. Fibonacci Sequence (easy - med)
  
-[Fibonacci](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/fib.js)
+ - [Fibonacci](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/fib.js)
 
 4. Greatest Common Denominator (med - hard)
 
-[Greatest Common Denominator](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/gcd.js)
+ - [Greatest Common Denominator](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/gcd.js)
 
 5. Permutations (med - hard)
 
-[Permutations](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/permutations.js)
+ - [Permutations](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/permutations.js)
 
 ####Extra Resources:
 
