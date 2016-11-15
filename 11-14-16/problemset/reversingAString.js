@@ -6,5 +6,5 @@ reverse('abcdefg')
 */
 
 function reverse (str){
-  
+
 }
