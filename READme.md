@@ -50,6 +50,7 @@ This in other words this is called a `base case`:
 ##Problems-- (You should use recursion for all of these):
 1. Intro to Recursion: (easy)
 
+
 2. Reversing a String (easy)
 
 
@@ -61,16 +62,17 @@ This in other words this is called a `base case`:
  
 4. Greatest Common Denominator (med - hard)
 
+
 5. Permutations (med - hard)
 
 ##Finished?
 CONGRATS!! Give yourself a pat on the back, you must be super comfortable with recursion!
 
-!(Nailed)[https://cloud.githubusercontent.com/assets/10103582/20289011/44adadaa-aa8c-11e6-9955-5ac861860ba7.gif]
+![Nailed](https://cloud.githubusercontent.com/assets/10103582/20289011/44adadaa-aa8c-11e6-9955-5ac861860ba7.gif)
 
 Feel free to look at the Women Who Code San Francisco Interview problems to practice more!
 
-(WWC)[http://meetupresources.herokuapp.com/whiteboard.html]
+[Women Who Code White Boarding problems](http://meetupresources.herokuapp.com/whiteboard.html)
 
 **AND**
 
@@ -80,7 +82,9 @@ Make a Pull Request to share your code! :)
 
 Before you leave, please fill out this exit ticket to give us feedback on what you would like to see in the next session!
 
-EXIT TICKET!!!!
+
+[EXIT TICKET](https://goo.gl/forms/i4JicdTtAl2RWkeg2)
+
 
 ##Looking for Volunteers!
 
