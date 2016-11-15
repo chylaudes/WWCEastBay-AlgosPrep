@@ -55,6 +55,7 @@ This in other words this is called a `base case`:
 2. Reversing a String (easy)
 
 [Reversing a String](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/reversingAString.js)
+
 3. Factorial(easy)
 
 [Factorial](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/factorial.js)
@@ -66,6 +67,7 @@ This in other words this is called a `base case`:
 4. Greatest Common Denominator (med - hard)
 
 [Greatest Common Denominator](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/gcd.js)
+
 5. Permutations (med - hard)
 
 [Permutations](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/permutations.js)
