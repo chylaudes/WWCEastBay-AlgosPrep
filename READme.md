@@ -25,7 +25,9 @@ Feel free to work with a partner on these problems.  And we will come back to sh
 
 First we need to understand that happens when a function calls itself:
 
-IMG!!
+![hello](https://cloud.githubusercontent.com/assets/10103582/20289013/483ea0f0-aa8c-11e6-9be6-a708f4cbc01a.png)
+
+![max](https://cloud.githubusercontent.com/assets/10103582/20289052/5dd3c026-aa8c-11e6-90d9-01cb6deceb98.png)
 
 We can see in this example that the function hello() is calling itself and it is excuting itself infinitely.
 
@@ -35,7 +37,7 @@ We can see in this example that the function hello() is calling itself and it is
 We need to provide some way for us to BREAK it or RETURN a VALUE.
 This in other words this is called a `base case`:
 
-IMG!!!
+![hello2](https://cloud.githubusercontent.com/assets/10103582/20289016/49ec5fb4-aa8c-11e6-8c43-98d693fd0f7d.png)
 
 ####Procdure:
 
@@ -64,9 +66,11 @@ IMG!!!
 ##Finished?
 CONGRATS!! Give yourself a pat on the back, you must be super comfortable with recursion!
 
-CONGRATS GIPHY!!
+!(Nailed)[https://cloud.githubusercontent.com/assets/10103582/20289011/44adadaa-aa8c-11e6-9955-5ac861860ba7.gif]
 
 Feel free to look at the Women Who Code San Francisco Interview problems to practice more!
+
+(WWC)[http://meetupresources.herokuapp.com/whiteboard.html]
 
 **AND**
 
