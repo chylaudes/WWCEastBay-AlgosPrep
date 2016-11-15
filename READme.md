@@ -50,15 +50,15 @@ This in other words this is called a `base case`:
 ##Problems-- (You should use recursion for all of these):
 1. Intro to Recursion: (easy)
 
-[Intro to Recursion](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/introToRecursion.js)
+ - [Intro to Recursion](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/introToRecursion.js)
 
 2. Reversing a String (easy)
 
-[Reversing a String](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/reversingAString.js)
+ - [Reversing a String](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/reversingAString.js)
 
 3. Factorial(easy)
 
-[Factorial](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/factorial.js)
+ - [Factorial](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/factorial.js)
 
 3. Fibonacci Sequence (easy - med)
  
