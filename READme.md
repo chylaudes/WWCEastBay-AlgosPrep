@@ -39,7 +39,7 @@ This in other words this is called a `base case`:
 
 ![hello2](https://cloud.githubusercontent.com/assets/10103582/20289016/49ec5fb4-aa8c-11e6-8c43-98d693fd0f7d.png)
 
-####Procdure:
+####Procedure:
 
 1. Identify the Base Case
 2. Identify the Recursive Case
@@ -64,6 +64,11 @@ This in other words this is called a `base case`:
 
 
 5. Permutations (med - hard)
+
+
+####Extra Resources:
+[Call Stack](https://www.youtube.com/watch?v=beqqGIdabrE&t=2s)
+[CS50- Recursion](https://www.youtube.com/watch?v=VrrnjYgDBEk)
 
 ##Finished?
 CONGRATS!! Give yourself a pat on the back, you must be super comfortable with recursion!
