@@ -1,5 +1,7 @@
 #Exercises for WWC East Bay Problemset
 
+[JS FIDDLE](https://jsfiddle.net/sdawkz2t/)
+
 Welcome to our first Women who Code East Bay Algorithms Prep.  Each week we will tackle a different common Algorithm/ Data Structure.
 
 Feel free to work with a partner on these problems.  And we will come back to share our solutions.  
