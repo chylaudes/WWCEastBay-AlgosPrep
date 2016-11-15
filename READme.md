@@ -9,7 +9,7 @@ Feel free to work with a partner on these problems.  And we will come back to sh
 ###What is Recursion?
   It is simply when a function calls it self. 
   
-  IMG!!!
+![cat-recursion](https://cloud.githubusercontent.com/assets/10103582/20289242/a75498be-aa8d-11e6-8b93-9e13292f27d0.gif)
   
 ###Where do you see it?
 1. Recursive Functions (Any function that calls itself)
@@ -25,7 +25,7 @@ Feel free to work with a partner on these problems.  And we will come back to sh
 
 First we need to understand that happens when a function calls itself:
 
-IMG!!!
+IMG!!
 
 We can see in this example that the function hello() is calling itself and it is excuting itself infinitely.
 
