@@ -18,6 +18,7 @@ Do these with recursion!
 1. Reversing a String (easy)
 [Reversing a String](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/12-12-16/warmUp.js)
 
+
 2. Greatest Common Denominator (med - hard)
 [Greatest Common Denominator](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/12-12-16/warmUp.js)
 
