@@ -61,7 +61,7 @@ Let's write an algorithm to do the job!
 So we have this data...
 
 
-![Unsorted](https://cloud.githubusercontent.com/assets/10103582/21124098/aecf0aec-c091-11e6-9bdc-dbfb782129c1.png =450x)
+![Unsorted](https://cloud.githubusercontent.com/assets/10103582/21124098/aecf0aec-c091-11e6-9bdc-dbfb782129c1.png)
 
 
 We'd expect that the more data we have, the longer it will take to figure out the min and max required for the range.  However, as our dataset grows, the cost can grow really fast or slow!
