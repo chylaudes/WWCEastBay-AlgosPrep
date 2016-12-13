@@ -16,10 +16,10 @@ Feel free to work with a partner on these problems.  And we will come back to sh
 Do these with recursion!
 
 1. Reversing a String (easy)
-[Reversing a String](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/reversingAString.js)
+[Reversing a String](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/12-12-16/warmUp.js)
 
 2. Greatest Common Denominator (med - hard)
-[Greatest Common Denominator](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/gcd.js)
+[Greatest Common Denominator](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/12-12-16/warmUp.js)
 
 ##Sorting Algorithms
 
@@ -45,11 +45,13 @@ Space and Time Complexity is what we use to measure how optimized and fast an Al
 
 
 
-##EXAMPLE:
+##Example:
 
-Let's say we have an algorithm heavy website like Zappos and a PM asks us to build a feature to look for the most expensive pair of running shoes and the least expensive pair or running shooes
+Let's say we have an algorithm heavy website like Zappos and a PM asks us to build a feature to look for the most expensive pair of running shoes and the least expensive pair or running shoes
 
-[Picture here]
+
+
+![Zappos](https://cloud.githubusercontent.com/assets/10103582/21124103/b431941e-c091-11e6-94d4-687a328edb08.png =550x)
 
 
 
@@ -58,7 +60,7 @@ Let's write an algorithm to do the job!
 So we have this data...
 
 
-[Picture here]
+![Unsorted](https://cloud.githubusercontent.com/assets/10103582/21124098/aecf0aec-c091-11e6-9bdc-dbfb782129c1.png =450x)
 
 
 We'd expect that the more data we have, the longer it will take to figure out the min and max required for the range.  However, as our dataset grows, the cost can grow really fast or slow!
@@ -76,7 +78,7 @@ We'd expect that the more data we have, the longer it will take to figure out th
 
 #####What if the data is already sorted?
 
-[Picture here]
+![Sorted](https://cloud.githubusercontent.com/assets/10103582/21124099/afb6cdbe-c091-11e6-9caf-20515d29d4cb.png =450x)
 
 
 * How many opperations/comparisons would we have to make if we had 4, 10, 200?
@@ -86,12 +88,11 @@ FAST
 
 Here's a quick table of Big O Notation:
 
-[PICTURE OF TABLE]
+![Big O Table](https://cloud.githubusercontent.com/assets/10103582/21124100/b0e58fae-c091-11e6-8990-7cf0000fe0a8.png =450x)
 
+Big O Graph:
 
-Big O Table:
-
-[table]
+![BigOgraph](http://blog.benoitvallon.com/img/2016-01-11-data-structures-in-javascript/big-o-complexity.png =450x)
 
 Was the input increases what happens?
 
@@ -102,7 +103,7 @@ Elementary Sorting:
 
 1. Bubble Sort
 
-	[Picture of Bubble Sort Algorithm]
+	![Picture of Bubble Sort Algorithm](https://cloud.githubusercontent.com/assets/10103582/21124214/6121dc42-c092-11e6-84e8-d67756a3eb12.gif)
 
 	Is a comparison sort that repeatedly swaps adjacent elements that are out of order
 
@@ -120,6 +121,8 @@ CONGRATS!! Give yourself a pat on the back, you must be super comfortable with r
 Feel free to look at the Women Who Code San Francisco Interview problems to practice more!
 
 [Women Who Code White Boarding problems](http://meetupresources.herokuapp.com/whiteboard.html)
+
+
 
 
 ##Exit Ticket!
