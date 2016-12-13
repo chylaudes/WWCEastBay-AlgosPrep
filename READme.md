@@ -2,6 +2,10 @@
 
 Welcome to Women who Code East Bay Algorithms Prep.  Each week we will tackle a different common Algorithm/ Data Structure.
 
+[JS FIDDLE](https://jsfiddle.net/sdawkz2t/#&togetherjs=3sLLDkEoK1)
+
+Welcome to our first Women who Code East Bay Algorithms Prep.  Each week we will tackle a different common Algorithm/ Data Structure.
+
 Feel free to work with a partner on these problems.  And we will come back to share our solutions.  
 
 ##Monday, Dec 12th -Sorting
@@ -29,7 +33,7 @@ Space and Time Complexity is what we use to measure how optimized and fast an Al
 
 *	How much memory is it taking up?
 
-####Time Complexity: 
+####Time Complexity:
 
 * How many comparisons are made?
 * How many swaps are made?
@@ -101,13 +105,13 @@ Elementary Sorting:
 	[Picture of Bubble Sort Algorithm]
 
 	Is a comparison sort that repeatedly swaps adjacent elements that are out of order
-	
+
 2. Merge Sort
-	
+
 	Divide and Conquer Algorithm
 
 3. Quick Sort (if time!)
- 
+
 ##Finished?
 CONGRATS!! Give yourself a pat on the back, you must be super comfortable with recursion!
 
