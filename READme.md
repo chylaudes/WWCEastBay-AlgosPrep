@@ -52,7 +52,7 @@ Let's say we have an algorithm heavy website like Zappos and a PM asks us to bui
 
 
 
-![Zappos](https://cloud.githubusercontent.com/assets/10103582/21124103/b431941e-c091-11e6-94d4-687a328edb08.png =550x)
+![Zappos](https://cloud.githubusercontent.com/assets/10103582/21124103/b431941e-c091-11e6-94d4-687a328edb08.png)
 
 
 
@@ -79,7 +79,7 @@ We'd expect that the more data we have, the longer it will take to figure out th
 
 #####What if the data is already sorted?
 
-![Sorted](https://cloud.githubusercontent.com/assets/10103582/21124099/afb6cdbe-c091-11e6-9caf-20515d29d4cb.png=450x)
+![Sorted](https://cloud.githubusercontent.com/assets/10103582/21124099/afb6cdbe-c091-11e6-9caf-20515d29d4cb.png)
 
 
 * How many opperations/comparisons would we have to make if we had 4, 10, 200?
@@ -89,11 +89,11 @@ FAST
 
 Here's a quick table of Big O Notation:
 
-![Big O Table](https://cloud.githubusercontent.com/assets/10103582/21124100/b0e58fae-c091-11e6-8990-7cf0000fe0a8.png=450x)
+![Big O Table](https://cloud.githubusercontent.com/assets/10103582/21124100/b0e58fae-c091-11e6-8990-7cf0000fe0a8.png)
 
 Big O Graph:
 
-![BigOgraph](http://blog.benoitvallon.com/img/2016-01-11-data-structures-in-javascript/big-o-complexity.png=450x)
+![BigOgraph](http://blog.benoitvallon.com/img/2016-01-11-data-structures-in-javascript/big-o-complexity.png)
 
 Was the input increases what happens?
 
