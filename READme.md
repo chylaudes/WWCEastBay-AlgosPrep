@@ -4,9 +4,6 @@ Welcome to Women who Code East Bay Algorithms Prep.  Each week we will tackle a 
 
 [JS FIDDLE](https://jsfiddle.net/sdawkz2t/#&togetherjs=3sLLDkEoK1)
 
-Welcome to our first Women who Code East Bay Algorithms Prep.  Each week we will tackle a different common Algorithm/ Data Structure.
-
-Feel free to work with a partner on these problems.  And we will come back to share our solutions.  
 
 ##Monday, Dec 12th -Sorting
 
