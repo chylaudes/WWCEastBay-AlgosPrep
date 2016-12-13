@@ -1,83 +1,113 @@
 #Exercises for WWC East Bay Problemset
 
-Welcome to our first Women who Code East Bay Algorithms Prep.  Each week we will tackle a different common Algorithm/ Data Structure.
+Welcome to Women who Code East Bay Algorithms Prep.  Each week we will tackle a different common Algorithm/ Data Structure.
 
 Feel free to work with a partner on these problems.  And we will come back to share our solutions.  
 
-##Monday, Nov 14th -Recursion
-
-###What is Recursion?
-  It is simply when a function calls it self. 
-  
-![cat-recursion](https://cloud.githubusercontent.com/assets/10103582/20289242/a75498be-aa8d-11e6-8b93-9e13292f27d0.gif)
-  
-###Where do you see it?
-1. Recursive Functions (Any function that calls itself)
-2. Recursive Algorithms (ex. Sorting Algorithms)
-3. Recursive Data Structures (ex.Trees -- trees that are composed into smaller trees and etc...)
-
-###Why Recurison?
-  - Provides an elegant solution to key your code D.R.Y.(Don't Repeat Yourself) 
-  - Basic/Expected CS knowledge!
-  
-###How do we tackle a recursive problem?
-<hr>
-
-First we need to understand that happens when a function calls itself:
-
-![hello](https://cloud.githubusercontent.com/assets/10103582/20289013/483ea0f0-aa8c-11e6-9be6-a708f4cbc01a.png)
-
-![max](https://cloud.githubusercontent.com/assets/10103582/20289052/5dd3c026-aa8c-11e6-90d9-01cb6deceb98.png)
-
-We can see in this example that the function hello() is calling itself and it is excuting itself infinitely.
+##Monday, Dec 12th -Sorting
 
 
-####What do we need to do in order for us to stop it?
+##Warm-up
 
-We need to provide some way for us to BREAK it or RETURN a VALUE.
-This in other words this is called a `base case`:
+Do these with recursion!
 
-![hello2](https://cloud.githubusercontent.com/assets/10103582/20289016/49ec5fb4-aa8c-11e6-8c43-98d693fd0f7d.png)
+1. Reversing a String (easy)
+[Reversing a String](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/reversingAString.js)
 
-####Procedure:
+2. Greatest Common Denominator (med - hard)
+[Greatest Common Denominator](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/gcd.js)
 
-1. Identify the Base Case
-2. Identify the Recursive Case
-3. Return where appropriate
-4. Write procedures for each case that brings you closer to the base case
+##Sorting Algorithms
+
+Before we go over Sorting Algorithms, we should atleast cover some important concepts of Space and Time Complexity.
+
+##Space and Time Complexity
+
+Space and Time Complexity is what we use to measure how optimized and fast an Algorithm is.
+
+####Space Complexity:  
+
+*	How much memory is it taking up?
+
+####Time Complexity: 
+
+* How many comparisons are made?
+* How many swaps are made?
+* As your data set grows how much more work your algorithms is going to do?
+
+...with respect to input size
+
+...and assuming worst case scenarios
+
+
+
+##EXAMPLE:
+
+Let's say we have an algorithm heavy website like Zappos and a PM asks us to build a feature to look for the most expensive pair of running shoes and the least expensive pair or running shooes
+
+[Picture here]
+
+
+
+Let's write an algorithm to do the job!
+
+So we have this data...
+
+
+[Picture here]
+
+
+We'd expect that the more data we have, the longer it will take to figure out the min and max required for the range.  However, as our dataset grows, the cost can grow really fast or slow!
+
+
+#####One Approach is to compare every number to all the other numbers...
+
+* How many opperations/comparisons would we have to make if we had 4, 10, 200?
+
+
+
+#####Second Approach what if we just checked for the highest number and for the lower number?
+
+* How many opperations/comparisons would we have to make if we had 4, 10, 200?
+
+#####What if the data is already sorted?
+
+[Picture here]
+
+
+* How many opperations/comparisons would we have to make if we had 4, 10, 200?
+
+FAST
+
+
+Here's a quick table of Big O Notation:
+
+[PICTURE OF TABLE]
+
+
+Big O Table:
+
+[table]
+
+Was the input increases what happens?
+
+
+###Problem Set
+
+Elementary Sorting:
+
+1. Bubble Sort
+
+	[Picture of Bubble Sort Algorithm]
+
+	Is a comparison sort that repeatedly swaps adjacent elements that are out of order
+	
+2. Merge Sort
+	
+	Divide and Conquer Algorithm
+
+3. Quick Sort (if time!)
  
-
-##Problems-- (You should use recursion for all of these):
-1. Intro to Recursion: (easy)
-
- - [Intro to Recursion](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/introToRecursion.js)
-
-2. Reversing a String (easy)
-
- - [Reversing a String](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/reversingAString.js)
-
-3. Factorial(easy)
-
- - [Factorial](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/factorial.js)
-
-3. Fibonacci Sequence (easy - med)
- 
- - [Fibonacci](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/fib.js)
-
-4. Greatest Common Denominator (med - hard)
-
- - [Greatest Common Denominator](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/gcd.js)
-
-5. Permutations (med - hard)
-
- - [Permutations](https://github.com/chylaudes/WWCEastBay-AlgosPrep/blob/master/11-14-16/problemset/permutations.js)
-
-####Extra Resources:
-
-[Call Stack](https://www.youtube.com/watch?v=beqqGIdabrE&t=2s)
-
-[CS50- Recursion](https://www.youtube.com/watch?v=VrrnjYgDBEk)
-
 ##Finished?
 CONGRATS!! Give yourself a pat on the back, you must be super comfortable with recursion!
 
@@ -87,9 +117,6 @@ Feel free to look at the Women Who Code San Francisco Interview problems to prac
 
 [Women Who Code White Boarding problems](http://meetupresources.herokuapp.com/whiteboard.html)
 
-**AND**
-
-Make a Pull Request to share your code! :)
 
 ##Exit Ticket!
 
